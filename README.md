@@ -1,0 +1,17 @@
+# Modelo-Ethephon
+
+Modelagem de crescimento de cana-de-açúcar e cana energia sob o estímulo de regulador de crescimento
+
+Um dos maiores desafios a serem superados é garantir o suprimento sustentável de água, energia e alimento a toda a população mundial, reduzindo impactos negativos no ambiente. Os avanços recentes na biotecnologia vêm revolucionando o setor sucroenergético através do desenvolvimento de novas variedades de cana para geração de energia, e que apresenta grande potencial para garantir alta produtividade de biomassa, consequentemente açúcar e etanol. Entretanto, uma forma de melhorar a produtividade da cana é através do uso de reguladores químicos de crescimento; por exemplo, se destaca o Ethephon. O Ethephon é um versátil regulador, que atua na via do hormônio vegetal etileno, promovendo o crescimento das plantas. Neste contexto, a avaliação e monitoramento do crescimento das plantas podem ser factíveis através de modelos matemáticos capazes de predizer o padrão de crescimento destas plantas ao longo do tempo. Este capítulo teve como objetivo testar um modelo matemático capaz de predizer o crescimento de variedades de cana-de-açúcar e cana energia, tratadas com Ethephon. Assim, foi utilizado software R, para o desenvolvimento de comandos necessários para a criação de um modelo de crescimento não-linear. Além disso, mostramos que o modelo matemático a ser usado, pode predizer o crescimento da altura da planta em qualquer tempo desejado (valor t). Mostramos um modelo estatístico a ser seguido, embora nossos resultados não mostrem diferença significativa entre o Ethephon e controle (sem Ethephon) nas duas variedades utilizadas. Verificamos uma diferença no padrão de crescimento entre cana-de-açúcar e cana energia.
+
+Modeling the growth of sugar cane and energy cane under the stimulus of growth regulator
+
+DOI: 10.22533/at.ed.35520090312
+
+Palavras chave: Cana-de-açúcar; Cana energia; Crescimento; Ethephon; Modelagem matemática.
+
+Keywords: Sugarcane; Energy cane; Growth; Ethephon; Mathematical modeling.
+
+Abstract:
+
+One of the biggest challenges to overcome is ensuring the sustainable supply of water, energy and food to the entire world population, reducing negative impacts on the environment. Recent advances in biotechnology have been revolutionizing the sugarcane industry through the development of new sugarcane varieties for power generation, and which has great potential to ensure high productivity of biomass, hence sugar and ethanol. However, one way to improve sugarcane productivity is through the use of chemical growth regulators; for example, the Ethephon stands out. Ethephon is a versatile regulator that acts in the pathway of the plant ethylene hormone, promoting plant growth. In this context, the evaluation and monitoring of plant growth may be feasible through mathematical models capable of predicting the growth pattern of these plants over time. This chapter aimed to test a mathematical model capable of predicting the growth of sugarcane and energy cane varieties treated with Ethephon. Thus, R software was used to develop the necessary commands to create a nonlinear growth model. In addition, we show that the mathematical model to be used can predict growth of plant height at any desired time (t value). We show a statistical model to follow, although our results show no significant difference between Ethephon and control (without Ethephon) in the two varieties used. We found a difference in the growth pattern between sugar cane and energy cane.
